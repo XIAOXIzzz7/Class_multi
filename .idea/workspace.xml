@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d27fd77b-ca46-4a53-a049-90b7e3cce07d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617159374126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1617159624285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617159624285</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1617159656787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617159656787</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,10 +191,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="113" key="CommitChangelistDialog2" timestamp="1617159623625">
+    <state x="598" y="113" key="CommitChangelistDialog2" timestamp="1617159656106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617159623625" />
+    <state x="598" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617159656106" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1617087798179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,10 +231,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617003731366" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617159625741">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617159843044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617159625741" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617159843044" />
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1617084857535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
