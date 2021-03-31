@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d27fd77b-ca46-4a53-a049-90b7e3cce07d" name="Default Changelist" comment="" />
+    <list default="true" id="d27fd77b-ca46-4a53-a049-90b7e3cce07d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qQF0BtqTDhx6VBcfbxKltRt7aD" />
   <component name="ProjectViewState">
@@ -156,9 +162,25 @@
       <option name="presentableId" value="Default" />
       <updated>1617003681250</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1617159374126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617159374126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="598" y="113" key="CommitChangelistDialog2" timestamp="1617159373465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617159373465" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1617087798179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -195,6 +217,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617003731366" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617159471123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1617159471123" />
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1617084857535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
